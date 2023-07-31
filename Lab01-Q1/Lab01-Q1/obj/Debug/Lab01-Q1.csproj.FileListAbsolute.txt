@@ -1,0 +1,8 @@
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.exe.config
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.exe
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.pdb
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.exe
+C:\Users\Admin\Music\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.pdb
